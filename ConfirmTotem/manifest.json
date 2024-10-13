@@ -1,0 +1,10 @@
+{
+  "Name": "Confirm Totem",
+  "Author": "John Peters (you know, the farmer?)",
+  "Version": "1.1.0",
+  "Description": "Asks for confirmation before using a totem.",
+  "UniqueID": "JohnPeters.ConfirmTotem",
+  "EntryDll": "ConfirmTotem.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:20255" ]
+}

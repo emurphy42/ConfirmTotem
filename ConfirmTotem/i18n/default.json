@@ -1,0 +1,11 @@
+{
+  "Question_UseTotem": "Use {0}?",
+
+  "Options_None": "None",
+  "Options_Dialog": "Dialog",
+  "Options_Warning": "Warning",
+  "Options_WarpTotem": "Warp Totem",
+  "Options_RainTotem": "Rain Totem",
+  "Options_TreasureTotem": "Treasure Totem",
+  "Options_UnknownTotem": "Unknown Totem"
+}
